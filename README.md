@@ -11,4 +11,4 @@
 # Cluster 1 (purple color) also has average to medium export values between 15 to 150 which are countries with average economic strengths due to medium income and medium export values.
 # Cluster 2 (yellow color) has a medium to high export rate between 70 to 200 with very high-income values between 80,000 to 125,000,
 # These are the strongest category of countries with very strong economic strengths, due to high income and high export values.
-# Clustering model in Python has statistically analyse the countries in the dataset based on their economic strenght and this method can be applied to other dataset.
+# Clustering model in Python has statistically analyse the countries in the dataset based on their economic strenght and this method can be applied to other dataset. 
